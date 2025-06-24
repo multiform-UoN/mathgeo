@@ -5,15 +5,6 @@ University of Nottingham
 
 ---
 
-## Internal Speakers
-
-- **Joshua Finn** (University of Nottingham): hydromechanics, peatlands, poromechanics, environmental modelling
-- **Ye Ma** (University of Nottingham): desalination, membrane modelling, transport phenomena, numerical analysis
-- **Internal Speaker**: TBC (To Be Confirmed)
-- **Internal Speaker**: TBC (To Be Confirmed)
-
----
-
 ## Programme Overview
 
 This month-long programme brings together researchers in mathematics, geosciences, environmental modelling and applied numerical methods. The core event is the **MATHGEO Workshop** on **9–10 July**, supported by a series of weekly seminars and collaborative meetings with visiting researchers. Topics include:
