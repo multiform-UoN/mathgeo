@@ -39,7 +39,7 @@ This month-long programme brings together researchers in mathematics, geoscience
 **09:30** – Ian Frigaard (UBC): *Viscoplastic Fluids and Yield Stress Effects in Porous Media: Modelling Basics*  
 **10:15** – Joshua Finn (Nottingham): *Development of a Hydromechanical Model for Peat*  
 **11:00** – Coffee Break  
-**11:30** – Thomasina Ball (Warwick) – *TBC*  
+**11:30** – Thomasina Ball (Warwick) – *Non-axisymmetric patterns in floating viscoplastic films*  
 **12:15** – Chris Macminn (Oxford) – *TBC*  
 
 **Session 2: Membranes, Solutes and Environmental Transport**  
@@ -48,8 +48,9 @@ This month-long programme brings together researchers in mathematics, geoscience
 **15:00** – Juan J. Hidalgo (IDAEA-CSIC): *Convective Mixing and Reaction in Heterogeneous Media*  
 **15:45** – Coffee Break  
 
-**Session 3: Optimisation and Data-Driven Modelling**  
-**16:15** – Alberto Paganini (Leicester): *Level-set Shape Optimization via Polytopic Discontinuous Galerkin Methods*  
+**Session 3: Optimisation, HPC, and Data-Driven Modelling**  
+**16:15** – Alberto Paganini (Leicester): *Level-set Shape Optimization via Polytopic Discontinuous Galerkin Methods* 
+**17:00** – Ismail El Mellas (IDAEA-CSIC): *TBC*
 **17:00** – Internal Speaker – *TBC*  
 
 ### Wednesday, 16 July 2025  
@@ -62,9 +63,8 @@ This month-long programme brings together researchers in mathematics, geoscience
 ### Thursday, 17 July 2025  
 **Session Theme: Geochemical Transport and Modelling Tools**  
 **Room:** George Green B06  
-**13:00** – Ismail El Mellas (CSIC) – *TBC*  
-**13:45** – Eugenio Pescimoro (CSIC) – *TBC*  
-**14:30** – Internal Speaker – *TBC*
+**13:00** – Eugenio Pescimoro (CSIC) – *TBC*  
+**13:45** – Internal Speaker – *TBC*
 
 ### Monday, 21 July 2025 & Tuesday, 22 July 2025  
 **Session Theme: Upscaling, Numerical Techniques, and Simulation Workflows**  
