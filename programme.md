@@ -1,18 +1,24 @@
 # MATHGEO Summer Programme 2025
-**Mathematical Geosciences Workshop and Seminar Series**  
-University of Nottingham  
+**Mathematical Geosciences Workshop and Seminar Series**   
+University of Nottingham, School of Mathematical Sciences  
 **July 2025**
+
+## Organisers
+- **Matteo Icardi**: [matteo.icardi@nottingham.ac.uk](mailto:matteo.icardi@nottingham.ac.uk)
+- **Luis Espath**: [luis.espath@nottingham.ac.uk](mailto:luis.espath@nottingham.ac.uk)
+- **Joshua Finn**: [joshua.finn@nottingham.ac.uk](mailto:joshua.finn@nottingham.ac.uk)
 
 ---
 
 ## Programme Overview
 
-This month-long programme brings together researchers in mathematics, geosciences, environmental modelling and applied numerical methods. The core event is the **MATHGEO Workshop** on **9–10 July**, supported by a series of weekly seminars and collaborative meetings with visiting researchers. Topics include:
+This month-long programme brings together researchers in mathematics, geosciences, environmental modelling, partial differential equations and numerical analysis. The core event is the **MATHGEO Workshop** on **9–10 July**, supported by a series of weekly seminars and collaborative meetings with visiting researchers. Topics include:
 
-- Poromechanics and coupled flow
+- Poromechanics and coupled multiphysics systems
 - Subsurface transport and environmental applications
 - Numerical methods for nonlinear PDEs
-- Multiphysics modelling and simulation
+- Pore-scale modelling and simulation
+- Upscaling and homogenisation techniques
 - Data-informed modelling in geosciences
 
 ---
@@ -58,13 +64,13 @@ This month-long programme brings together researchers in mathematics, geoscience
 **Session Theme: Hydrological Systems and Peat Modelling**  
 **Room:** Pope B25  
 **13:00** – Matteo Camporese (Padova): *Groundwater Modelling for Enhanced Understanding of Natural Systems*  
-**13:45** – Mario Putti (Padua): *p-Laplacian Based Surrogate Modeling of Water Management Problems*  
+**13:45** – Mario Putti (Padova): *p-Laplacian Based Surrogate Modeling of Water Management Problems*  
 **14:30** – Internal Speaker – *TBC*
 
 ### Thursday, 17 July 2025  
 **Session Theme: Geochemical Transport and Modelling Tools**  
 **Room:** George Green B06  
-**13:00** – Eugenio Pescimoro (CSIC) – *TBC*  
+**13:00** – Eugenio Pescimoro (IDAEA-CSIC) – *TBC*  
 **13:45** – Internal Speaker – *TBC*
 
 ### Monday, 21 July 2025 & Tuesday, 22 July 2025  
