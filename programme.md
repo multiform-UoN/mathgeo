@@ -52,7 +52,7 @@ This month-long programme brings together researchers in mathematics, geoscience
 **Session 3: Optimisation, HPC, and Data-Driven Modelling**  
 **15:15** – Alberto Paganini (Leicester): *Level-set Shape Optimization via Polytopic Discontinuous Galerkin Methods*  
 **16:00** – Ismail El Mellas (IDAEA-CSIC): *TBC*  
-**16:45** – Ignacio Brevis: *A deep learning approach to solve parametric PDEs in terms of a quantity of interest*  
+**16:45** – Ignacio Brevis (Nottingham): *A deep learning approach to solve parametric PDEs in terms of a quantity of interest*  
 
 ### Wednesday, 16 July 2025  
 **Session Theme: Hydrological Systems and Peat Modelling**  
