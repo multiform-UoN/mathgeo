@@ -38,23 +38,24 @@ This month-long programme brings together researchers in mathematics, geoscience
 **09:00** – Welcome Coffee  
 **09:30** – Ian Frigaard (UBC): *Viscoplastic Fluids and Yield Stress Effects in Porous Media: Modelling Basics*  
 **10:15** – Joshua Finn (Nottingham): *Development of a Hydromechanical Model for Peat*  
-**11:00** – Coffee Break  
-**11:30** – Thomasina Ball (Warwick) – *Non-axisymmetric patterns in floating viscoplastic films*  
-**12:15** – Chris Macminn (Oxford) – *TBC*  
+**10:45** – Thomasina Ball (Warwick) – *Non-axisymmetric patterns in floating viscoplastic films*  
+**11:30** – Chris Macminn (Oxford) – *TBC*  
+
+**12:15** – Lunch Break
 
 **Session 2: Membranes, Solutes and Environmental Transport**  
-**14:00** – Diganta Bhusan Das (Loughborough): *Fluid Flow and Solute Transport in Circular Flow Membrane System*  
-**14:45** – Ye Ma (Nottingham): *Modelling and Analysis of Reverse Osmosis Desalination*  
-**15:00** – Juan J. Hidalgo (IDAEA-CSIC): *Convective Mixing and Reaction in Heterogeneous Media*  
-**15:45** – Coffee Break  
+**13:00** – Diganta Bhusan Das (Loughborough): *Fluid Flow and Solute Transport in Circular Flow Membrane System*  
+**13:45** – Ye Ma (Nottingham): *Modelling and Analysis of Reverse Osmosis Desalination*  
+**14:00** – Juan J. Hidalgo (IDAEA-CSIC): *Convective Mixing and Reaction in Heterogeneous Media*  
+**14:45** – Coffee Break  
 
 **Session 3: Optimisation, HPC, and Data-Driven Modelling**  
-**16:15** – Alberto Paganini (Leicester): *Level-set Shape Optimization via Polytopic Discontinuous Galerkin Methods* 
-**17:00** – Ismail El Mellas (IDAEA-CSIC): *TBC*
-**17:00** – Internal Speaker – *TBC*  
+**15:15** – Alberto Paganini (Leicester): *Level-set Shape Optimization via Polytopic Discontinuous Galerkin Methods* 
+**16:00** – Ismail El Mellas (IDAEA-CSIC): *TBC*
+**16:45** – Ignacio Brevis: *A deep learning approach to solve parametric PDEs in terms of a quantity of interest*
 
 ### Wednesday, 16 July 2025  
-**Session Theme: Hydrological Systems and Surrogate Modelling**  
+**Session Theme: Hydrological Systems and Peat Modelling**  
 **Room:** Pope B25  
 **13:00** – Matteo Camporese (Padova): *Groundwater Modelling for Enhanced Understanding of Natural Systems*  
 **13:45** – Mario Putti (Padua): *p-Laplacian Based Surrogate Modeling of Water Management Problems*  
