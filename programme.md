@@ -42,12 +42,12 @@ This month-long programme brings together researchers in mathematics, geoscience
 **Session 1: Poromechanics and Multiphysics Coupling**  
 **Room:** Monica Partridge E06  
 **09:00** – Welcome Coffee  
-**09:30** – Ian Frigaard (UBC): *Viscoplastic Fluids and Yield Stress Effects in Porous Media: Modelling Basics*  
-**10:15** – Joshua Finn (Nottingham): *Development of a Hydromechanical Model for Peat*  
-**10:45** – Thomasina Ball (Warwick) – *Non-axisymmetric patterns in floating viscoplastic films*  
-**11:30** – Chris Macminn (Oxford) – *TBC*  
-
-**12:15** – Lunch Break
+**09:30** – Matteo Icardi (Nottingham): *The MATHPEAT network*
+**09:45** – Ian Frigaard (UBC): *Viscoplastic Fluids and Yield Stress Effects in Porous Media: Modelling Basics*
+**10:30** – Thomasina Ball (Warwick) – *Non-axisymmetric patterns in floating viscoplastic films*  
+**11:15** – Joshua Finn (Nottingham): *Development of a Hydromechanical Model for Peat*  
+**11:35** – Luis Espath (Nottingham): *TBC*
+**12:00** – Lunch Break
 
 **Session 2: Membranes, Solutes and Environmental Transport**  
 **13:00** – Diganta Bhusan Das (Loughborough): *Fluid Flow and Solute Transport in Circular Flow Membrane System*  
@@ -60,18 +60,20 @@ This month-long programme brings together researchers in mathematics, geoscience
 **16:00** – Ismail El Mellas (IDAEA-CSIC): *TBC*  
 **16:45** – Ignacio Brevis (Nottingham): *A deep learning approach to solve parametric PDEs in terms of a quantity of interest*  
 
+### Tuesday, 15 July 2025  
+**Field Trip to a Peat Bog in the Peak District** - *departing at 14:00 from the University of Nottingham, contact organisers for details*
+
 ### Wednesday, 16 July 2025  
-**Session Theme: Hydrological Systems and Peat Modelling**  
+**Session Theme: Mathematical Hydrology**  
 **Room:** Pope B25  
 **13:00** – Matteo Camporese (Padova): *Groundwater Modelling for Enhanced Understanding of Natural Systems*  
 **13:45** – Mario Putti (Padova): *p-Laplacian Based Surrogate Modeling of Water Management Problems*  
-**14:30** – Internal Speaker – *TBC*
+**14:30** – Eugenio Pescimoro (IDAEA-CSIC) – *TBC*  
 
 ### Thursday, 17 July 2025  
-**Session Theme: Geochemical Transport and Modelling Tools**  
+**Session Theme: TBC**  
 **Room:** George Green B06  
-**13:00** – Eugenio Pescimoro (IDAEA-CSIC) – *TBC*  
-**13:45** – Internal Speaker – *TBC*
+
 
 ### Monday, 21 July 2025 & Tuesday, 22 July 2025  
 **Session Theme: Upscaling, Numerical Techniques, and Simulation Workflows**  
