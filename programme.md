@@ -42,12 +42,12 @@ This month-long programme brings together researchers in mathematics, geoscience
 **Session 1: Poromechanics and Multiphysics Coupling**  
 **Room:** Monica Partridge E06  
 **09:00** – Welcome Coffee  
-**09:30** – Matteo Icardi (Nottingham): *The MATHPEAT network*
-**09:45** – Ian Frigaard (UBC): *Viscoplastic Fluids and Yield Stress Effects in Porous Media: Modelling Basics*
-**10:30** – Thomasina Ball (Warwick) – *Non-axisymmetric patterns in floating viscoplastic films*  
-**11:15** – Joshua Finn (Nottingham): *Development of a Hydromechanical Model for Peat*  
-**11:35** – Luis Espath (Nottingham): *TBC*
-**12:00** – Lunch Break
+**09:30** – Matteo Icardi (Nottingham): *The MATHPEAT network*   
+**09:45** – Ian Frigaard (UBC): *Viscoplastic Fluids and Yield Stress Effects in Porous Media: Modelling Basics*  
+**10:30** – Thomasina Ball (Warwick) – *Non-axisymmetric patterns in floating viscoplastic films*    
+**11:15** – Joshua Finn (Nottingham): *Development of a Hydromechanical Model for Peat*    
+**11:35** – Luis Espath (Nottingham): *TBC*  
+**12:00** – Lunch Break  
 
 **Session 2: Membranes, Solutes and Environmental Transport**  
 **13:00** – Diganta Bhusan Das (Loughborough): *Fluid Flow and Solute Transport in Circular Flow Membrane System*  
