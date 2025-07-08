@@ -63,7 +63,7 @@ To know more about the MATHPEAT network, please visit the [MATHPEAT website](htt
 
 **Session 3: Optimisation, HPC, and Data-Driven Modelling**  
 **15:15** – Alberto Paganini (Leicester): *Level-set Shape Optimization via Polytopic Discontinuous Galerkin Methods*  
-**16:00** – Alice Peyraut (Nottingham): *Modeling and Estimation of Pulmonary Poromechanics : towards a Robust High-Fidelity Digital Twin Approach for Idiopathic Pulmonary Fibrosis*  _(talk moved from Session 1)_
+**16:00** – Alice Peyraut (Nottingham): *Modeling and Estimation of Pulmonary Poromechanics : towards a Robust High-Fidelity Digital Twin Approach for Idiopathic Pulmonary Fibrosis*  _(talk moved from Session 1)_  
 **16:45** – Ignacio Brevis (Nottingham): *A deep learning approach to solve parametric PDEs in terms of a quantity of interest*  
 
 ### Tuesday, 15 July 2025  
