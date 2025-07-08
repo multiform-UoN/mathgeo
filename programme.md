@@ -52,7 +52,7 @@ To know more about the MATHPEAT network, please visit the [MATHPEAT website](htt
 **09:45** – Ian Frigaard (UBC): *Viscoplastic Fluids and Yield Stress Effects in Porous Media: Modelling Basics*  
 **10:30** – Thomasina Ball (Warwick): *Non-axisymmetric patterns in floating viscoplastic films*    
 **11:15** – Joshua Finn (Nottingham): *Development of a Hydromechanical Model for Peat*    
-**11:35** – Luis Espath (Nottingham): *TBC*  
+**11:35** – Ismail El Mellas (IDAEA-CSIC): Numerical simulations in Karst conduits _(Talk moved from Session 3)_  
 **12:00** – Lunch Break  
 
 **Session 2: Membranes, Solutes and Environmental Transport**  
@@ -63,7 +63,7 @@ To know more about the MATHPEAT network, please visit the [MATHPEAT website](htt
 
 **Session 3: Optimisation, HPC, and Data-Driven Modelling**  
 **15:15** – Alberto Paganini (Leicester): *Level-set Shape Optimization via Polytopic Discontinuous Galerkin Methods*  
-**16:00** – Ismail El Mellas (IDAEA-CSIC): *TBC*  
+**16:00** – Alice Peyraut (Nottingham): *Modeling and Estimation of Pulmonary Poromechanics : towards a Robust High-Fidelity Digital Twin Approach for Idiopathic Pulmonary Fibrosis*  _(talk moved from Session 1)_
 **16:45** – Ignacio Brevis (Nottingham): *A deep learning approach to solve parametric PDEs in terms of a quantity of interest*  
 
 ### Tuesday, 15 July 2025  
