@@ -67,15 +67,15 @@ To know more about the MATHPEAT network, please visit the [MATHPEAT website](htt
 **16:45** – Ignacio Brevis (Nottingham): *A deep learning approach to solve parametric PDEs in terms of a quantity of interest*  
 
 ### Tuesday, 15 July 2025  
-**Field Trip to a Peat Bog in the Peak District** - *departing at 14:00 from the University of Nottingham, contact organisers for details*
+**Field Trip to a Peat Bog in the Peak District** - *departing at 13:00 from the Jubilee Campus Hotel, contact organisers for details*
 
 ### Wednesday, 16 July 2025  
 **Location:** Pope B25 - [Google Maps](https://maps.app.goo.gl/pq8J3pEE3rnYiYkq5)   
 **Session Theme: Mathematical Hydrology**  
 **13:00** – Matteo Camporese (Padova): *Groundwater Modelling for Enhanced Understanding of Natural Systems*  
 **13:45** – Mario Putti (Padova): *p-Laplacian Based Surrogate Modeling of Water Management Problems*  
-**14:30** – Eugenio Pescimoro (IDAEA-CSIC) – *TBC*  
-**15:45** – Marco Berardi (CNR IRSA, Bari): *TBC*  
+**14:30** – Eugenio Pescimoro (IDAEA-CSIC): *Diffusion and reaction dynamics in fractured porous media*  
+**15:45** – Marco Berardi (CNR IRSA, Bari): *Physics based and data driven methods for precision agriculture*  
 
 
 ### Thursday, 17 July 2025  
@@ -84,15 +84,13 @@ To know more about the MATHPEAT network, please visit the [MATHPEAT website](htt
 
 
 ### Monday, 21 July 2025
-**Room:** TBC  
+**Room:** Monica Partridge D02 - [Google Maps](https://maps.app.goo.gl/LGGCbx53AmBh7NRL7)    
 **Session Theme: Upscaling, Numerical Techniques, and Simulation Workflows**  
-**21 July**  
-**13:00** – Gianluca Boccardo (Politecnico di Torino) – *TBC*  
-**13:45** – Diego Fida (Politecnico di Torino): *Pore Scale CFD Simulation to Investigate Transport Phenomena in Catalytic Packed-Bed Reactors*  
-**14:30** – Nicodemo Di Pasquale (University of Bologna) – *TBC*  
+**13:00** – Diego Fida (Politecnico di Torino): *Pore Scale CFD Simulation to Investigate Transport Phenomena in Catalytic Packed-Bed Reactors*  
+**13:45** – Nicodemo Di Pasquale (University of Bologna): *Transport problems in Porous media with focus on the Population Balance Equation*  
 
 ### Tuesday, 22 July 2025 
-**Room:** TBC  
+**Room:** Monica Partridge D02 - [Google Maps](https://maps.app.goo.gl/LGGCbx53AmBh7NRL7)    
 **13:00** - **OpenFOAM Hackathon**: *Hands-on collaborative coding on simulation workflows using [OpenFOAM](https://www.openfoam.org), an open-source CFD toolbox.*
 
 
@@ -100,3 +98,4 @@ To know more about the MATHPEAT network, please visit the [MATHPEAT website](htt
 ## Invited Speakers - reimbursement policy
 Invited speakers will be reimbursed for travel and accommodation expenses.
 [Non-staff expense claim forms are available here](https://www.nottingham.ac.uk/fabs/finance/forms/index.aspx).
+Please ensure you keep all original receipts and submit your claim by July 15, 2025. Later claims may be processed but need to be discussed with the organisers first.
