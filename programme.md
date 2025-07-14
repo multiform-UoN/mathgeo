@@ -74,7 +74,7 @@ To know more about the MATHPEAT network, please visit the [MATHPEAT website](htt
 **Session Theme: Mathematical Hydrology**  
 **13:00** – Matteo Camporese (Padova): *Groundwater Modelling for Enhanced Understanding of Natural Systems*  
 **13:45** – Mario Putti (Padova): *p-Laplacian Based Surrogate Modeling of Water Management Problems*  
-**14:30** – Eugenio Pescimoro (IDAEA-CSIC): *Diffusion and reaction dynamics in fractured porous media*  
+**14:30** – Eugenio Pescimoro (IDAEA-CSIC): *Hydrogen storage in fractured porous media*  
 **15:45** – Marco Berardi (CNR IRSA, Bari): *Physics based and data driven methods for precision agriculture*  
 
 
