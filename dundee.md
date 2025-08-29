@@ -58,19 +58,6 @@ This event is part of this momentum and is jointly supported by the [MATHPEAT Ne
 | 17:00–18:00    | Group Formation and Initial Group Work                 |
 | 19:00          | **Dinner at Gallery 48**                      |
 
-## Industrial Challenges
-
-This KE workshop includes collaboration with several industry and applied research partners. During the first day, real-world challenges will be introduced by contributors from organisations including SSEN, CSX Carbon, Scottish Woodlands, and others.
-
-The challenges span a variety of themes, including:
-
-- Modelling and reuse of excavated peat  
-- Environmental impact of underground infrastructure  
-- Coupled monitoring of water table and greenhouse gas fluxes  
-- Restoration planning and investment optimisation  
-- Decision-support tools for peatland management  
-- Statistical inference and model-data integration  
-
 ---
 
 ### **Thursday 11 September**
@@ -98,6 +85,21 @@ The challenges span a variety of themes, including:
 | 11:30–12:00    | Final Wrap-up and MATHPEAT Future Planning    |
 | 12:00–13:30    | Lunch and Departures                          |
 | 13:30–14:30    | Optional Review & Progress Discussion         |
+
+---
+
+## Industrial Challenges
+
+This KE workshop includes collaboration with several industry and applied research partners. During the first day, real-world challenges will be introduced by contributors from organisations including SSEN, CSX Carbon, Scottish Woodlands, and others.
+
+The challenges span a variety of themes, including:
+
+- Modelling and reuse of excavated peat  
+- Environmental impact of underground infrastructure  
+- Coupled monitoring of water table and greenhouse gas fluxes  
+- Restoration planning and investment optimisation  
+- Decision-support tools for peatland management  
+- Statistical inference and model-data integration  
 
 ---
 
