@@ -1,0 +1,106 @@
+# MATHGEO–MATHPEAT KE Study Group  
+## *Mathematics for Modelling Peat Bogs*  
+**10–12 September 2025 – University of Dundee**
+
+---
+
+## Overview
+
+This KE (knowledge exchange) study group brings together mathematicians, environmental scientists, engineers, and policy stakeholders to address mathematical challenges in **peatland system modelling**. 
+The focus will be on structured collaborative group work around 3–4 key challenges posed by industry or academia.  
+While there will be some short scientific talks, these will be tailored to the context of the challenges, with most of the time dedicated to problem-solving and interdisciplinary discussion.
+
+---
+
+## About the Workshop
+
+Are peatlands losing their ability to store carbon? Do peatlands tend to increase or decrease their surface area over time, or are they steady-state ecosystems?  
+Peat presents a unique and testable context for studying soft-growing porous materials due to the largely unexplored coupling between poro-eco-chemo-mechanics, biological growth in the unsaturated layer, and gas-generating decay processes.
+
+## Objective
+
+This workshop merges disciplines—mathematics, ecology, hydrology, chemistry—to address both academic challenges and real-world problems in carbon sequestration.  
+It offers a platform for experts from diverse backgrounds to develop holistic models for peat bog dynamics and carbon processes.  
+By integrating different perspectives, we aim to stimulate innovative modelling approaches and inform peatland restoration and carbon management.
+
+## Relevance
+
+Peatlands store over 600 gigatonnes of carbon—more than all the world’s forests combined—and sequester ~0.37 Gt of CO₂ annually.  
+When degraded, they become major carbon sources, emitting >2 Gt of CO₂ per year.  
+Restoring peatlands is now a global priority, with major investments (e.g. £1bn in UK government pledges) backing this effort.  
+This event is part of this momentum and is jointly supported by the [MATHPEAT Network](https://mathpeatnetwork.wordpress.com).
+
+---
+
+## Location
+
+- **Main venue**: Lecture Theatre **G05**, Dalhousie Building, University of Dundee  
+- **Breakout sessions**: Rooms **G5** and **G6**, Dalhousie Building  
+- **Accommodation**: Hotel Indigo, Dundee (pre-booked for participants)  
+- **Hotel**: Hotel Indigo Dundee, 152 West Marketgait, Dundee DD1 1NJ  
+- **Dinners**: Gallery 48, Dundee (10th & 11th September, 19:30)  
+- **Dinner venue**: Gallery 48, 48 West Port, Dundee DD1 5ER
+
+---
+
+## Programme
+
+### **Wednesday 10 September**
+
+| Time           | Session                                       |
+|----------------|-----------------------------------------------|
+| 12:00–13:30    | Arrival and Welcome Lunch                     |
+| 13:30–14:15    | Introduction and Overview                     |
+| 14:15–15:15    | Challenge Presentations – Session 1 (30 min each)      |
+| 15:15–15:45    | Coffee Break                                           |
+| 15:45–16:45    | Challenge Presentations – Session 2 (30 min each)      |
+| 16:45–18:00    | Group Formation and Initial Group Work                 |
+| 19:30          | **Dinner at Gallery 48**                      |
+
+---
+
+### **Thursday 11 September**
+
+| Time           | Session                                       |
+|----------------|-----------------------------------------------|
+| 09:00–10:30    | Short Scientific Talks – Mathematical Approaches (10 min each) |
+| 10:30–11:00    | Coffee Break                                  |
+| 11:00–12:00    | Short Scientific Talks – Statistical/Data Approaches (10 min each) |
+| 12:00–13:30    | Lunch                                         |
+| 13:30–15:00    | Group Work on Challenges                      |
+| 15:00–15:30    | Inter-challenge Networking                    |
+| 15:30–16:30    | Group Work (continued)                        |
+| 17:00–17:30    | Recap and Planning Next Steps                 |
+| 19:30          | **Dinner at Gallery 48**                      |
+
+---
+
+### **Friday 12 September**
+
+| Time           | Session                                       |
+|----------------|-----------------------------------------------|
+| 09:00–10:30    | Final Group Work Session                      |
+| 10:30–11:30    | Group Presentations and Feedback              |
+| 11:30–12:00    | Final Wrap-up and MATHPEAT Future Planning    |
+| 12:00–13:30    | Lunch and Departures                          |
+| 13:30–14:30    | Optional Review & Progress Discussion         |
+
+---
+
+## Scientific Organisers
+
+- **Luis Espath**, University of Nottingham, UK – [luis.espath@nottingham.ac.uk](mailto:luis.espath@nottingham.ac.uk)  
+- **Matteo Icardi**, University of Nottingham, UK – [matteo.icardi@nottingham.ac.uk](mailto:matteo.icardi@nottingham.ac.uk)  
+- **David Large**, University of Nottingham, UK – [david.large@nottingham.ac.uk](mailto:david.large@nottingham.ac.uk)  
+- **Roxane Andersen**, Environmental Research Institute, UK  
+- **Eric Hall**, University of Dundee, UK – [ehall001@dundee.ac.uk](mailto:ehall001@dundee.ac.uk)  
+- **Ehsan Jorat**, Abertay University, UK  
+- **Irene Tierney**, IMTECO LIMITED, UK  
+- **Santiago Clavijo**, TNO, Netherlands
+
+---
+
+> Please let us know if you have **dietary requirements** or **access needs**.
+>  
+> Accommodation and catering are organised centrally.  
+> For travel support or expense queries, contact the organisers directly.
