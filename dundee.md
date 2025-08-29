@@ -60,15 +60,16 @@ This event is part of this momentum and is jointly supported by the [MATHPEAT Ne
 
 ## Industrial Challenges
 
-This KE workshop includes collaboration with industry partners who are presenting real-world challenges related to peatland infrastructure, restoration, and monitoring. Participants will work in teams to develop preliminary solutions, guided by data and objectives provided by the challenge holders.
+This KE workshop includes collaboration with several industry and applied research partners. During the first day, real-world challenges will be introduced by contributors from organisations including SSEN, CSX Carbon, Scottish Woodlands, and others.
 
-Topics include:
-- Reuse and modelling of excavated peat (SSEN)
-- Impacts of underground cabling on hydrology and stability (SSEN)
-- Coupling of CO₂ flux and water table fluctuations using sensor arrays (CSX)
-- Investment planning and triage for peatland restoration across large estates (Scottish Woodlands)
+The challenges span a variety of themes, including:
 
-These challenges span modelling, decision-support tools, statistical inference, and environmental optimisation. The relevant background and data sources will be introduced in the first afternoon session, with opportunities to engage directly with industrial partners throughout the event.
+- Modelling and reuse of excavated peat  
+- Environmental impact of underground infrastructure  
+- Coupled monitoring of water table and greenhouse gas fluxes  
+- Restoration planning and investment optimisation  
+- Decision-support tools for peatland management  
+- Statistical inference and model-data integration  
 
 ---
 
