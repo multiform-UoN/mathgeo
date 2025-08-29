@@ -2,6 +2,8 @@
 ## *Mathematics for Modelling Peat Bogs*  
 **10–12 September 2025 – University of Dundee**
 
+This workshop is supported by the [International Centre for Mathematical Sciences (ICMS)](https://www.icms.org.uk/activities/workshop/mathgeo-modelling-of-peat-bogs).  
+
 ---
 
 ## Overview
@@ -54,7 +56,19 @@ This event is part of this momentum and is jointly supported by the [MATHPEAT Ne
 | 15:30–16:00    | Coffee Break                                           |
 | 16:00–17:00    | Challenge Presentations – Session 2 (30 min each)      |
 | 17:00–18:00    | Group Formation and Initial Group Work                 |
-| 19:30          | **Dinner at Gallery 48**                      |
+| 19:00          | **Dinner at Gallery 48**                      |
+
+## Industrial Challenges
+
+This KE workshop includes collaboration with industry partners who are presenting real-world challenges related to peatland infrastructure, restoration, and monitoring. Participants will work in teams to develop preliminary solutions, guided by data and objectives provided by the challenge holders.
+
+Topics include:
+- Reuse and modelling of excavated peat (SSEN)
+- Impacts of underground cabling on hydrology and stability (SSEN)
+- Coupling of CO₂ flux and water table fluctuations using sensor arrays (CSX)
+- Investment planning and triage for peatland restoration across large estates (Scottish Woodlands)
+
+These challenges span modelling, decision-support tools, statistical inference, and environmental optimisation. The relevant background and data sources will be introduced in the first afternoon session, with opportunities to engage directly with industrial partners throughout the event.
 
 ---
 
