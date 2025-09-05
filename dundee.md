@@ -54,10 +54,9 @@ Information about the Dalhousie Building, including accessibility, is available 
 | Time           | Session                                       |
 |----------------|:----------------------------------------------|
 | 14:00–14:30    | Introduction and Overview                     |
-| 14:30–15:30    | Challenge Presentations – Session 1 (30 min each)      |
-| 15:30–16:00    | Coffee Break                                           |
-| 16:00–17:00    | Challenge Presentations – Session 2 (30 min each)      |
-| 17:00–18:00    | Group Formation and Initial Group Work                 |
+| 14:30–15:30    | Challenge Presentations    (30 min each)      |
+| 15:30–16:00    | Coffee Break                                  |
+| 16:00–18:00    | Group Formation and Initial Group Work        |
 | 18:30          | **Dinner at Gallery 48**                      |
 
 
@@ -66,14 +65,12 @@ Information about the Dalhousie Building, including accessibility, is available 
 
 | Time           | Session                                       |
 |----------------|:----------------------------------------------|
-| 09:00–10:30    | Short Scientific Talks – Mathematical Approaches (10 min each) |
+| 09:00–10:30    | Group Work on Challenges                      |
 | 10:30–11:00    | Coffee Break                                  |
-| 11:00–12:00    | Short Scientific Talks – Statistical Approaches (10 min each) |
+| 11:00–12:00    | Group Work (continued)                        |
 | 12:00–13:30    | Lunch                                         |
-| 13:30–15:00    | Group Work on Challenges                      |
-| 15:00–15:30    | Inter-challenge Networking                    |
-| 15:30–16:30    | Group Work (continued)                        |
-| 17:00–17:30    | Recap and Planning Next Steps                 |
+| 13:30–14:00    | Short Presentations from Each Group (Opportunity for Group Reformation) |
+| 14:00–17:30    | Group Work (continued)                        |
 | 18:30          | **Dinner at Gallery 48**                      |
 
 
