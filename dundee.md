@@ -1,6 +1,6 @@
 # MATHGEO–MATHPEAT KE Study Group  
 ## *Mathematics for Modelling Peat Bogs*  
-**10–12 September 2025 – University of Dundee**
+**10–12 September 2025 – [University of Dundee](https://www.dundee.ac.uk/mathematics)**
 
 This workshop is supported by the [International Centre for Mathematical Sciences (ICMS)](https://www.icms.org.uk/activities/workshop/mathgeo-modelling-of-peat-bogs).  
 
@@ -39,9 +39,11 @@ This event is part of this momentum and is jointly supported by the [MATHPEAT Ne
 - **Main venue**: Lecture Theatre **G05**, Dalhousie Building, University of Dundee  
 - **Breakout sessions**: Rooms **G5** and **G6**, Dalhousie Building  
 - **Accommodation**: Hotel Indigo, Dundee (pre-booked for participants)  
-- **Hotel**: Hotel Indigo Dundee, 152 West Marketgait, Dundee DD1 1NJ  
+- **Hotel location**: Hotel Indigo Dundee, 152 West Marketgait, Dundee DD1 1NJ  
 - **Dinners**: Gallery 48, Dundee (10th & 11th September, 19:30)  
-- **Dinner venue**: Gallery 48, 48 West Port, Dundee DD1 5ER
+- **Dinner venue location**: Gallery 48, 48 West Port, Dundee DD1 5ER
+
+Information about the Dalhousie Building, including accessibility, is available at [https://www.dundee.ac.uk/locations/dalhousie-building](https://www.dundee.ac.uk/locations/dalhousie-building). For detailed instructions on how to find the Dalhousie Building, please consult the University of Dundee Campus Maps available at [https://www.app.dundee.ac.uk/campusmap/?location=DALHOUSIE_BUILDING](https://www.app.dundee.ac.uk/campusmap/?location=DALHOUSIE_BUILDING).
 
 ---
 
@@ -50,36 +52,36 @@ This event is part of this momentum and is jointly supported by the [MATHPEAT Ne
 ### **Wednesday 10 September**
 
 | Time           | Session                                       |
-|----------------|-----------------------------------------------|
+|----------------|:----------------------------------------------|
 | 14:00–14:30    | Introduction and Overview                     |
 | 14:30–15:30    | Challenge Presentations – Session 1 (30 min each)      |
 | 15:30–16:00    | Coffee Break                                           |
 | 16:00–17:00    | Challenge Presentations – Session 2 (30 min each)      |
 | 17:00–18:00    | Group Formation and Initial Group Work                 |
-| 19:00          | **Dinner at Gallery 48**                      |
+| 18:30          | **Dinner at Gallery 48**                      |
 
----
+
 
 ### **Thursday 11 September**
 
 | Time           | Session                                       |
-|----------------|-----------------------------------------------|
+|----------------|:----------------------------------------------|
 | 09:00–10:30    | Short Scientific Talks – Mathematical Approaches (10 min each) |
 | 10:30–11:00    | Coffee Break                                  |
-| 11:00–12:00    | Short Scientific Talks – Statistical/Data Approaches (10 min each) |
+| 11:00–12:00    | Short Scientific Talks – Statistical Approaches (10 min each) |
 | 12:00–13:30    | Lunch                                         |
 | 13:30–15:00    | Group Work on Challenges                      |
 | 15:00–15:30    | Inter-challenge Networking                    |
 | 15:30–16:30    | Group Work (continued)                        |
 | 17:00–17:30    | Recap and Planning Next Steps                 |
-| 19:30          | **Dinner at Gallery 48**                      |
+| 18:30          | **Dinner at Gallery 48**                      |
 
----
+
 
 ### **Friday 12 September**
 
 | Time           | Session                                       |
-|----------------|-----------------------------------------------|
+|----------------|:----------------------------------------------|
 | 09:00–10:30    | Final Group Work Session                      |
 | 10:30–11:30    | Group Presentations and Feedback              |
 | 11:30–12:00    | Final Wrap-up and MATHPEAT Future Planning    |
@@ -90,16 +92,21 @@ This event is part of this momentum and is jointly supported by the [MATHPEAT Ne
 
 ## Industrial Challenges
 
-This KE workshop includes collaboration with several industry and applied research partners. During the first day, real-world challenges will be introduced by contributors from organisations including SSEN, CSX Carbon, Scottish Woodlands, and others.
+<!-- This KE workshop includes collaboration with several industry and applied research partners. During the first day, real-world challenges will be introduced by contributors from organisations including SSEN, CSX Carbon, Scottish Woodlands, and others. -->
 
-The challenges span a variety of themes, including:
+This KE workshop includes collaboration with several industry and applied research partners. During the first day, real-world challenges will be introduced by contributors from CSX Carbon, Scottish Woodlands, and SSE Networks Transmission.
 
-- Modelling and reuse of excavated peat  
-- Environmental impact of underground infrastructure  
-- Coupled monitoring of water table and greenhouse gas fluxes  
-- Restoration planning and investment optimisation  
-- Decision-support tools for peatland management  
-- Statistical inference and model-data integration  
+- CSX: 
+[Detecting water-table–CO₂ coupling with scalable sensor arrays](dundee_challenges/CSX_final.pdf)
+- Scottish Woodlands : 
+[Triage and investment optimisation for peatland restoration](dundee_challenges/ScottishWoodlands_final.pdf)
+- SSE Networks :
+[Underground cabling in peatlands: hydrology and stability]()
+- SSE Networks :
+[Modelling excavated peat for reuse and reinstatement]()
+
+The challenges span a variety of themes, including modelling and reuse of excavated peat, environmental impact of underground infrastructure, coupled monitoring of water table and greenhouse gas fluxes, restoration planning and investment optimisation, decision-support tools for peatland management, and statistical inference and model-data integration.
+
 
 ---
 

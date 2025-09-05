@@ -16,3 +16,55 @@ pre, code {
   background: #f4f4f4;
   padding: 0.2rem 0.4rem;
 }
+
+.markdown-body table, /* GitHub */
+.md table,            /* Many docs themes */
+table {               /* Fallback */
+  width: fit-content;
+  max-width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;        /* Ensures consistent column widths */
+  border: 1px solid #e5e7eb;
+  background: transparent;
+  display: block;             /* Allows horizontal scroll on small screens */
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+.markdown-body th, .markdown-body td,
+.md th, .md td,
+th, td {
+  padding: 0.1rem 0.9rem;
+  border-bottom: 1px solid #eef0f3;
+  vertical-align: middle;
+  text-align: left;
+  word-wrap: break-word;
+}
+
+thead th {
+  background: #f8fafc;
+  font-weight: 600;
+  letter-spacing: .02em;
+}
+
+tbody tr:nth-child(even) { background: #fbfdff; }
+tbody tr:hover { background: #f5faff; }
+
+/* Make the first column (Time) consistent across all tables */
+th:first-child, td:first-child {
+  width: 8.5rem;              /* Adjust to taste */
+  text-align: center;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums; /* Aligns times neatly */
+}
+
+/* Optional: headings above tables */
+h3 + table,
+h3 + div > table {
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 640px) {
+  th, td { padding: 0.5rem 0.6rem; }
+  th:first-child, td:first-child { width: 6.5rem; }
+}
