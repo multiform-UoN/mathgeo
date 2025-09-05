@@ -40,7 +40,7 @@ This event is part of this momentum and is jointly supported by the [MATHPEAT Ne
 - **Breakout sessions**: Rooms **G5** and **G6**, Dalhousie Building  
 - **Accommodation**: Hotel Indigo, Dundee (pre-booked for participants)  
 - **Hotel location**: Hotel Indigo Dundee, 152 West Marketgait, Dundee DD1 1NJ  
-- **Dinners**: Gallery 48, Dundee (10th & 11th September, 19:30)  
+- **Dinners**: Gallery 48, Dundee (10th & 11th September, 18:30)  
 - **Dinner venue location**: Gallery 48, 48 West Port, Dundee DD1 5ER
 
 Information about the Dalhousie Building, including accessibility, is available at [https://www.dundee.ac.uk/locations/dalhousie-building](https://www.dundee.ac.uk/locations/dalhousie-building). For detailed instructions on how to find the Dalhousie Building, please consult the University of Dundee Campus Maps available at [https://www.app.dundee.ac.uk/campusmap/?location=DALHOUSIE_BUILDING](https://www.app.dundee.ac.uk/campusmap/?location=DALHOUSIE_BUILDING).
