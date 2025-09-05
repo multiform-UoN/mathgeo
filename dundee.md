@@ -95,9 +95,9 @@ This KE workshop includes collaboration with several industry and applied resear
 - Scottish Woodlands : 
 [Triage and investment optimisation for peatland restoration](dundee_challenges/ScottishWoodlands_final.pdf)
 - SSE Networks :
-[Underground cabling in peatlands: hydrology and stability]()
+Underground cabling in peatlands: hydrology and stability (TBA)
 - SSE Networks :
-[Modelling excavated peat for reuse and reinstatement]()
+Modelling excavated peat for reuse and reinstatement (TBA)
 
 The challenges span a variety of themes, including modelling and reuse of excavated peat, environmental impact of underground infrastructure, coupled monitoring of water table and greenhouse gas fluxes, restoration planning and investment optimisation, decision-support tools for peatland management, and statistical inference and model-data integration.
 
