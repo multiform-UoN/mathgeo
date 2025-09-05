@@ -8,29 +8,25 @@ This workshop is supported by the [International Centre for Mathematical Science
 
 ## Overview
 
-This KE (knowledge exchange) study group brings together mathematicians, environmental scientists, engineers, and policy stakeholders to address mathematical challenges in **peatland system modelling**. 
-The focus will be on structured collaborative group work around 3–4 key challenges posed by industry or academia.  
-While there will be some short scientific talks, these will be tailored to the context of the challenges, with most of the time dedicated to problem-solving and interdisciplinary discussion.
+This KE (knowledge exchange) study group brings together mathematicians, environmental scientists, engineers, and policy stakeholders to address mathematical challenges in **peatland system modelling**. The focus will be on structured collaborative group work around the partner challenges.  
+
+<!-- While there will be some short scientific talks, these will be tailored to the context of the challenges, with most of the time dedicated to problem-solving and interdisciplinary discussion. -->
 
 ---
 
 ## About the Workshop
 
 Are peatlands losing their ability to store carbon? Do peatlands tend to increase or decrease their surface area over time, or are they steady-state ecosystems?  
+
 Peat presents a unique and testable context for studying soft-growing porous materials due to the largely unexplored coupling between poro-eco-chemo-mechanics, biological growth in the unsaturated layer, and gas-generating decay processes.
 
 ## Objective
 
-This workshop merges disciplines—mathematics, ecology, hydrology, chemistry—to address both academic challenges and real-world problems in carbon sequestration.  
-It offers a platform for experts from diverse backgrounds to develop holistic models for peat bog dynamics and carbon processes.  
-By integrating different perspectives, we aim to stimulate innovative modelling approaches and inform peatland restoration and carbon management.
+This workshop merges disciplines—mathematics, ecology, hydrology, chemistry—to address both academic challenges and real-world problems in carbon sequestration.  It offers a platform for experts from diverse backgrounds to develop holistic models for peat bog dynamics and carbon processes. By integrating different perspectives, we aim to stimulate innovative modelling approaches and inform peatland restoration and carbon management.
 
 ## Relevance
 
-Peatlands store over 600 gigatonnes of carbon—more than all the world’s forests combined—and sequester ~0.37 Gt of CO₂ annually.  
-When degraded, they become major carbon sources, emitting >2 Gt of CO₂ per year.  
-Restoring peatlands is now a global priority, with major investments (e.g. £1bn in UK government pledges) backing this effort.  
-This event is part of this momentum and is jointly supported by the [MATHPEAT Network](https://mathpeatnetwork.wordpress.com).
+Peatlands store over 600 gigatonnes of carbon—more than all the world’s forests combined—and sequester ~0.37 Gt of CO₂ annually. When degraded, they become major carbon sources, emitting >2 Gt of CO₂ per year. Restoring peatlands is now a global priority, with major investments (e.g. £1bn in UK government pledges) backing this effort. This event is part of this momentum and is jointly supported by the [MATHPEAT Network](https://mathpeatnetwork.wordpress.com).
 
 ---
 
