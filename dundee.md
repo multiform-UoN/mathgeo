@@ -54,9 +54,10 @@ Information about the Dalhousie Building, including accessibility, is available 
 | Time           | Session                                       |
 |----------------|:----------------------------------------------|
 | 14:00–14:30    | Introduction and Overview                     |
-| 14:30–15:30    | Challenge Presentations    (30 min each)      |
+| 14:30–15:30    | Challenge Presentations - Session 1   (30 min each) |
 | 15:30–16:00    | Coffee Break                                  |
-| 16:00–18:00    | Group Formation and Initial Group Work        |
+| 16:00–17:00    | Challenge Presentations – Session 2 (30 min each) |
+| 17:00–18:00    | Group Formation and Initial Group Work        |
 | 18:30          | **Dinner at Gallery 48**                      |
 
 
