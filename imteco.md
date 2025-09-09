@@ -15,6 +15,11 @@ Currently, there is **no standard tool** for ecologists or regulators to quantif
 
 How can we **develop or adapt a hydrological modelling tool** that allows users (especially non-modellers like ecologists) to assess:
 
+
+At a more fundamental level, the scientific challenge is to understand why bog pool systems form in the first place—only with this understanding can we begin to model their behaviour under disturbance.
+
+From a broader perspective, bog pool systems are not just hydrological features but also geomechanical systems. The pools and ridges emerge from complex feedbacks between water flow, peat deformation, growth and decay, and long-term surface stability. Infrastructure loading can change pore pressures, compaction, and settlement, which then alter water levels and connectivity. Thus, flow-based modelling must be coupled with geomechanical and ecohydrological understanding to capture the full dynamics.
+
 - How infrastructure might influence nearby **bog pool dynamics**.  
 
 - What buffer zones are necessary to minimise hydrological disruption.  
@@ -31,7 +36,12 @@ The tool should be:
 
 #### Realistic Outcome for the Workshop
 
-This is a **broad and ambitious challenge**. A fully working model cannot be built in two days — but this group aims to:
+
+This is a complex and not yet fully understood problem. A fully working model cannot be built in two days, so the aim of this group is to identify what is known, what remains uncertain, and to frame a roadmap for future work.
+
+The group may also wish to highlight where geomechanics, ecohydrology, and long-term feedbacks need to be integrated with simpler hydrological tools, so that Irene’s vision of a practitioner-oriented model remains grounded in the deeper physical processes.
+
+In particular, the group will:
 
 - Identify key physical processes and modelling options
 
@@ -157,6 +167,8 @@ Examples: **SWAT+**, **HYPE** (peat-parameterised)
 ---
 
 #### Final Aim
+
+- Clarify the fundamental scientific questions around bog pool formation and dynamics
 
 The aim of this group is not to develop a working model immediately, but to outline:
 

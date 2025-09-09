@@ -88,16 +88,13 @@ Information about the Dalhousie Building, including accessibility, is available 
 
 <!-- This KE workshop includes collaboration with several industry and applied research partners. During the first day, real-world challenges will be introduced by contributors from organisations including SSEN, CSX Carbon, Scottish Woodlands, and others. -->
 
-This KE workshop includes collaboration with several industry and applied research partners. During the first day, real-world challenges will be introduced by contributors from CSX Carbon, Scottish Woodlands, and SSE Networks Transmission.
+This KE workshop includes collaboration with several industry and applied research partners. During the first day, real-world challenges will be introduced by contributors from CSX Carbon, Scottish Woodlands, and IMTECO Ltd.
 
 - CSX: 
 [Detecting water-table–CO₂ coupling with scalable sensor arrays](dundee_challenges/CSX_final.pdf)
 - Scottish Woodlands : 
 [Triage and investment optimisation for peatland restoration](dundee_challenges/ScottishWoodlands_final.pdf)
-- SSE Networks :
-Underground cabling in peatlands: hydrology and stability (TBA)
-- SSE Networks :
-Modelling excavated peat for reuse and reinstatement (TBA)
+- IMTECO: Modelling bog pool hydrology: impact buffers and planning tools (link forthcoming)
 
 The challenges span a variety of themes, including modelling and reuse of excavated peat, environmental impact of underground infrastructure, coupled monitoring of water table and greenhouse gas fluxes, restoration planning and investment optimisation, decision-support tools for peatland management, and statistical inference and model-data integration.
 
