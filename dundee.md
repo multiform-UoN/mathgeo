@@ -94,7 +94,7 @@ This KE workshop includes collaboration with several industry and applied resear
 [Detecting water-table–CO₂ coupling with scalable sensor arrays](dundee_challenges/CSX_final.pdf)
 - Scottish Woodlands : 
 [Triage and investment optimisation for peatland restoration](dundee_challenges/ScottishWoodlands_final.pdf)
-- IMTECO: Modelling bog pool hydrology: impact buffers and planning tools (link forthcoming)
+- IMTECO: [Modelling bog pool hydrology: impact buffers and planning tools](imteco.html)
 
 The challenges span a variety of themes, including modelling and reuse of excavated peat, environmental impact of underground infrastructure, coupled monitoring of water table and greenhouse gas fluxes, restoration planning and investment optimisation, decision-support tools for peatland management, and statistical inference and model-data integration.
 

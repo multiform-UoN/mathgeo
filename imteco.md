@@ -11,6 +11,8 @@ Peatlands with **dense bog pool systems** are highly sensitive ecosystems. Infra
 
 Currently, there is **no standard tool** for ecologists or regulators to quantify these risks or to define *evidence-based buffer zones*, as is done for other sensitive habitats like GWDTEs (Groundwater-Dependent Terrestrial Ecosystems).
 
+This challenge should also be considered in the context of current **NatureScot peatland guidance**, which sets the regulatory framework for assessing impacts on peatland and carbon-rich soils in development management. The guidance includes structured templates and checklists (see [NatureScot peatland guidance website](https://www.nature.scot/doc/advising-peatland-carbon-rich-soils-and-priority-peatland-habitats-development-management)) that practitioners must follow when evaluating direct and indirect impacts, defining buffer zones, and identifying mitigation requirements. A PDF copy of the guidance is also available here: [NatureScot Guidance PDF](dundee_challenges/NatureScot.pdf). NatureScot also provide a structured site visit template to guide assessments. This includes criteria such as peat depth, vegetation type, surface pattern, drainage condition, and presence of Sphagnum-rich ridges. Sites are classified according to whether they are raised, montane, or blanket bogs, with combinations of criteria indicating potential national interest and informing mitigation or buffer requirements.
+
 #### The Challenge
 
 How can we **develop or adapt a hydrological modelling tool** that allows users (especially non-modellers like ecologists) to assess:
@@ -37,7 +39,7 @@ The tool should be:
 #### Realistic Outcome for the Workshop
 
 
-This is a complex and not yet fully understood problem. A fully working model cannot be built in two days, so the aim of this group is to identify what is known, what remains uncertain, and to frame a roadmap for future work.
+This is a complex and not yet fully understood problem. A fully working model cannot be built in two days, so the aim of this group is to identify what is known, what remains uncertain, and to frame a roadmap for future work. The immediate outcome is not a model but a shared roadmap aligned with policy frameworks. Participants should aim to connect the scientific and modelling perspectives with the NatureScot templates, so outputs can help practitioners interpret results directly within regulatory assessments.
 
 The group may also wish to highlight where geomechanics, ecohydrology, and long-term feedbacks need to be integrated with simpler hydrological tools, so that Irene’s vision of a practitioner-oriented model remains grounded in the deeper physical processes.
 
@@ -52,6 +54,8 @@ In particular, the group will:
 - Propose a **roadmap** for developing a prototype tool, e.g. in Python/R or an interface for an existing model (like DigiBog or HEC-RAS)
 
 The result would be a shared vision and technical outline that could seed a collaborative research or innovation project.
+
+The group should also reflect on how any proposed approaches could align with, or help simplify, the assessment process outlined in the [NatureScot Assessment Template](dundee_challenges/NatureScot_template.xlsx) and related guidance, to ensure outputs are directly relevant to regulatory practice.
 
 ---
 
