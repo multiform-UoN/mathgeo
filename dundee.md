@@ -66,8 +66,8 @@ Information about the Dalhousie Building, including accessibility, is available 
 | 10:30–11:00    | Coffee Break                                  |
 | 11:00–12:00    | Group Work (continued)                        |
 | 12:00–13:30    | Lunch                                         |
-| 13:30–14:00    | Short Presentations from Each Group (Opportunity for Group Reformation) |
-| 14:00–17:30    | Group Work (continued)                        |
+| 13:30–14:30    | Short Presentations from Each Group (Opportunity for Group Reformation) |
+| 14:30–17:30    | Group Work (continued)                        |
 | 18:30          | **Dinner at Gallery 48**                      |
 
 

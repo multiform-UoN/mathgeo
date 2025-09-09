@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>imteco</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<h3
+id="imteco-ltd-modelling-the-hydrological-impact-of-infrastructure-near-bog-pool-systems">IMTECO
+Ltd: Modelling the Hydrological Impact of Infrastructure Near Bog Pool
+Systems</h3>
+<p><strong>Partner</strong>: Irene Tierney – Principal Ecologist, IMTECO
+Ltd<br />
+<strong>Email</strong>: <a
+href="mailto:irenetierney@imtecoltd.com">irenetierney@imtecoltd.com</a></p>
+<hr />
+<h4 id="context-motivation">Context &amp; Motivation</h4>
+<p>Peatlands with <strong>dense bog pool systems</strong> are highly
+sensitive ecosystems. Infrastructure (e.g. wind farms, access tracks,
+buried cables) is usually prohibited in these zones — but even
+construction near the pools can affect their delicate
+<strong>hydrology</strong>. Impacts include drainage “shadows”, altered
+connectivity between pools, or changes in hydroperiod (pool water
+duration and levels).</p>
+<p>Currently, there is <strong>no standard tool</strong> for ecologists
+or regulators to quantify these risks or to define <em>evidence-based
+buffer zones</em>, as is done for other sensitive habitats like GWDTEs
+(Groundwater-Dependent Terrestrial Ecosystems).</p>
+<h4 id="the-challenge">The Challenge</h4>
+<p>How can we <strong>develop or adapt a hydrological modelling
+tool</strong> that allows users (especially non-modellers like
+ecologists) to assess:</p>
+<ul>
+<li><p>How infrastructure might influence nearby <strong>bog pool
+dynamics</strong>.</p></li>
+<li><p>What buffer zones are necessary to minimise hydrological
+disruption.</p></li>
+<li><p>How to communicate these risks clearly to regulators and
+developers.</p></li>
+</ul>
+<p>The tool should be:</p>
+<ul>
+<li><p>Scientifically credible.</p></li>
+<li><p>Flexible enough to incorporate field data.</p></li>
+<li><p>Simple enough to be used in practical consultancy
+settings.</p></li>
+</ul>
+<h4 id="realistic-outcome-for-the-workshop">Realistic Outcome for the
+Workshop</h4>
+<p>This is a <strong>broad and ambitious challenge</strong>. A fully
+working model cannot be built in two days — but this group aims to:</p>
+<ul>
+<li><p>Identify key physical processes and modelling options</p></li>
+<li><p>Review what tools already exist (and their limitations)</p></li>
+<li><p>Discuss the <strong>data requirements</strong> and
+simplifications needed for consultants</p></li>
+<li><p>Propose a <strong>roadmap</strong> for developing a prototype
+tool, e.g. in Python/R or an interface for an existing model (like
+DigiBog or HEC-RAS)</p></li>
+</ul>
+<p>The result would be a shared vision and technical outline that could
+seed a collaborative research or innovation project.</p>
+<hr />
+<h4 id="modelling-approaches-for-discussion">Modelling Approaches (for
+discussion)</h4>
+<p>Below is a categorisation of possible modelling approaches, adapted
+from current research and industry practice. These should be discussed
+in terms of feasibility, input requirements, and applicability to bog
+pool systems.</p>
+<hr />
+<p><strong>1. Physically-Based Distributed Flow Models
+(2D/3D)</strong><br />
+Examples: <strong>MIKE SHE</strong>, <strong>HydroGeoSphere</strong>,
+<strong>MODFLOW</strong> (with UZF/SFR/LAK), <strong>COMSOL</strong></p>
+<ul>
+<li><p>Simulate: water-table response to tracks/foundations, pool water
+levels, GW–SW (groundwater–surface water) exchange, culvert
+placement</p></li>
+<li><p>Inputs:</p>
+<ul>
+<li><p>High-resolution LiDAR digital elevation model (DEM)</p></li>
+<li><p>Peat layer stratigraphy and hydraulic properties (K, van
+Genuchten curves)</p></li>
+<li><p>Drainage layout, rainfall/evaporation data</p></li>
+<li><p>Logger data for calibration</p></li>
+</ul></li>
+</ul>
+<hr />
+<p><strong>2. Surface Flow &amp; Barrier Routing Models</strong><br />
+Examples: <strong>HEC-RAS 2D</strong>, <strong>TELEMAC-2D</strong></p>
+<ul>
+<li><p>Simulate: how roads, tracks, or berms act as
+<strong>barriers</strong>, causing ponding or fragmentation between
+pools</p></li>
+<li><p>Inputs:</p>
+<ul>
+<li><p>Sub-metre DEM</p></li>
+<li><p>Roughness maps (e.g. open water vs. Sphagnum mats)</p></li>
+<li><p>Rainfall hyetographs</p></li>
+<li><p>Water-level data from pool loggers</p></li>
+</ul></li>
+</ul>
+<hr />
+<p><strong>3. Catchment-Scale Conceptual Screening Models</strong><br />
+Examples: <strong>TOPMODEL</strong>, <strong>HBV</strong>,
+<strong>GR4J</strong> (with peat-specific parameters)</p>
+<ul>
+<li><p>Simulate: broader <strong>seasonal drawdown risks</strong>,
+“what-if” scenarios of cumulative impact</p></li>
+<li><p>Inputs:</p>
+<ul>
+<li><p>Rainfall and evapotranspiration time series</p></li>
+<li><p>Simplified soil and land cover types</p></li>
+<li><p>Outflow measurements or dipwell data</p></li>
+</ul></li>
+</ul>
+<hr />
+<p><strong>4. Peatland-Specific Eco-Hydrological Models</strong><br />
+Example: <strong>DigiBog</strong></p>
+<ul>
+<li><p>Simulate: long-term interaction between <strong>peat
+growth</strong> and <strong>hydrology</strong>, particularly pool–ridge
+feedback</p></li>
+<li><p>Inputs:</p>
+<ul>
+<li><p>Microtopography</p></li>
+<li><p>Peat decomposition and productivity parameters</p></li>
+<li><p>Historic water-table records</p></li>
+</ul></li>
+<li><p>Notes: DigiBog also includes a standalone hydrology module
+(<em>DigiBog_Hydro</em>)</p></li>
+</ul>
+<p>More info: <a
+href="https://www.peatmothership.org/digibog">https://www.peatmothership.org/digibog</a></p>
+<hr />
+<p><strong>5. Graph-Based &amp; Cellular Automata Models (from
+LiDAR)</strong></p>
+<ul>
+<li><p>Simulate: how <strong>microtopography</strong> and barriers
+affect <strong>connectivity</strong> between pools</p></li>
+<li><p>Can model thresholds for hydrological fragmentation and loss of
+function</p></li>
+<li><p>Inputs:</p>
+<ul>
+<li><p>High-resolution DEM</p></li>
+<li><p>Seasonal pool extents</p></li>
+<li><p>Mapped pool network</p></li>
+</ul></li>
+</ul>
+<hr />
+<p><strong>6. Water Quality &amp; Export Models</strong><br />
+Examples: <strong>SWAT+</strong>, <strong>HYPE</strong>
+(peat-parameterised)</p>
+<ul>
+<li><p>Simulate: how construction corridors affect <strong>DOC
+(dissolved organic carbon)</strong> or sediment exports</p></li>
+<li><p>Inputs:</p>
+<ul>
+<li><p>Soil carbon maps, surface runoff patterns</p></li>
+<li><p>Event-based water sampling of DOC and turbidity</p></li>
+</ul></li>
+</ul>
+<hr />
+<h4 id="explanation-of-key-terms">Explanation of Key Terms</h4>
+<ul>
+<li><p><strong>van Genuchten curves</strong>: Describe how water is
+retained in soil/peat at different tensions — needed for accurate
+modelling of flow through porous media</p></li>
+<li><p><strong>GW–SW exchange</strong>: The bidirectional flow between
+groundwater and surface water (like pools)</p></li>
+<li><p><strong>Hyetograph</strong>: Graph of rainfall intensity over
+time</p></li>
+<li><p><strong>Hydroperiod</strong>: Duration and frequency of pool
+inundation</p></li>
+<li><p><strong>Acrotelm/Catotelm</strong>: The upper active and lower
+anoxic peat layers in bogs</p></li>
+</ul>
+<hr />
+<h4 id="final-aim">Final Aim</h4>
+<p>The aim of this group is not to develop a working model immediately,
+but to outline:</p>
+<ul>
+<li><p>A <strong>recommendation</strong> for model type and
+structure</p></li>
+<li><p>A minimum data standard for ecological assessments</p></li>
+<li><p>Possible avenues for future development (student projects, grant
+proposals, open-source collaboration)</p></li>
+</ul>
+</body>
+</html>
