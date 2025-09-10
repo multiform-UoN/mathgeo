@@ -32,14 +32,10 @@ Peatlands store over 600 gigatonnes of carbon—more than all the world’s fore
 
 ## Location
 
-- **Main venue**: Lecture Theatre **G05**, Dalhousie Building, University of Dundee  
+- **Main venue**: Lecture Theatre **LT2**, Dalhousie Building, University of Dundee  
 - **Breakout sessions**: Rooms **G5** and **G6**, Dalhousie Building  
 - **Accommodation**: Hotel Indigo, Dundee (pre-booked for participants)  
-- **Hotel location**: Hotel Indigo Dundee, 152 West Marketgait, Dundee DD1 1NJ  
 - **Dinners**: Gallery 48, Dundee (10th & 11th September, 18:30)  
-- **Dinner venue location**: Gallery 48, 48 West Port, Dundee DD1 5ER
-
-Information about the Dalhousie Building, including accessibility, is available at [https://www.dundee.ac.uk/locations/dalhousie-building](https://www.dundee.ac.uk/locations/dalhousie-building). For detailed instructions on how to find the Dalhousie Building, please consult the University of Dundee Campus Maps available at [https://www.app.dundee.ac.uk/campusmap/?location=DALHOUSIE_BUILDING](https://www.app.dundee.ac.uk/campusmap/?location=DALHOUSIE_BUILDING).
 
 ---
 
@@ -66,8 +62,8 @@ Information about the Dalhousie Building, including accessibility, is available 
 | 10:30–11:00    | Coffee Break                                  |
 | 11:00–12:00    | Group Work (continued)                        |
 | 12:00–13:30    | Lunch                                         |
-| 13:30–14:30    | Short Presentations from Each Group (Opportunity for Group Reformation) |
-| 14:30–17:30    | Group Work (continued)                        |
+| 13:30–14:30    | Short Updates from Each Group + Short Talks   |
+| 14:30–17:00    | Group Work (continued)                        |
 | 18:30          | **Dinner at Gallery 48**                      |
 
 
@@ -92,9 +88,12 @@ This KE workshop includes collaboration with several industry and applied resear
 
 - CSX: 
 [Detecting water-table–CO₂ coupling with scalable sensor arrays](dundee_challenges/CSX_final.pdf)
+  + [HackMD CSX notes](https://hackmd.io/@mathpeatnetwork/ryNKPPksxx/edit)
 - Scottish Woodlands : 
 [Triage and investment optimisation for peatland restoration](dundee_challenges/ScottishWoodlands_final.pdf)
+  + [HackMD Scottish Woodlands notes](https://hackmd.io/@mathpeatnetwork/B1DfOwJjlx/edit)
 - IMTECO: [Modelling bog pool hydrology: impact buffers and planning tools](imteco.html)
+  + [HackMD IMTECO notes](https://hackmd.io/@mathpeatnetwork/ByS3Ov1jxx/edit)
 
 The challenges span a variety of themes, including modelling and reuse of excavated peat, environmental impact of underground infrastructure, coupled monitoring of water table and greenhouse gas fluxes, restoration planning and investment optimisation, decision-support tools for peatland management, and statistical inference and model-data integration.
 
