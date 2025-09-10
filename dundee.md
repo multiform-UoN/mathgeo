@@ -32,8 +32,8 @@ Peatlands store over 600 gigatonnes of carbon—more than all the world’s fore
 
 ## Location
 
-- **Main venue**: Lecture Theatre **LT2**, Dalhousie Building, University of Dundee  
-- **Breakout sessions**: Rooms **G5** and **G6**, Dalhousie Building  
+- **Main venue**: _Lecture Theatre 2_ (**3G05**), Dalhousie Building, University of Dundee  
+- **Breakout sessions**: Rooms **1G05**, **1G06**, and **3G05**, Dalhousie Building  
 - **Accommodation**: Hotel Indigo, Dundee (pre-booked for participants)  
 - **Dinners**: Gallery 48, Dundee (10th & 11th September, 18:30)  
 
