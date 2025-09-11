@@ -94,6 +94,7 @@ This KE workshop includes collaboration with several industry and applied resear
   + [HackMD Scottish Woodlands notes](https://hackmd.io/@mathpeatnetwork/B1DfOwJjlx/edit)
 - IMTECO: [Modelling bog pool hydrology: impact buffers and planning tools](imteco.html)
   + [HackMD IMTECO notes](https://hackmd.io/@mathpeatnetwork/ByS3Ov1jxx/edit)
+  + [Presentation](dundee_challenges/Bog Pool Hydrology.pdf)
 
 The challenges span a variety of themes, including modelling and reuse of excavated peat, environmental impact of underground infrastructure, coupled monitoring of water table and greenhouse gas fluxes, restoration planning and investment optimisation, decision-support tools for peatland management, and statistical inference and model-data integration.
 
